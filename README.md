@@ -1,0 +1,2 @@
+# ExamJavaScript
+прогноз погоды
